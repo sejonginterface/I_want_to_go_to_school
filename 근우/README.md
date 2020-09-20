@@ -1,6 +1,6 @@
 ## 주소
 
-**[바로가기]()**
+**[바로가기](https://moaikang.github.io/I_want_to_go_to_school/%EA%B7%BC%EC%9A%B0/index.html)**
 
 ### 만든 계기
 
