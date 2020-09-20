@@ -14,16 +14,16 @@
 }
 
 body {
-  background-color: black;
-  padding: 40px 100px;
-  box-sizing: border-box;
-
   margin: 0 auto;
+  padding: 40px 100px;
+
+  background-color: black;
+  box-sizing: border-box;
 }
 
 .text__main {
-  line-height: 1.5;
   margin-top: 30px;
+  line-height: 1.5;
 }
 
 .search__header {
@@ -35,20 +35,27 @@ body {
 .search__header__input {
   width: 100%;
   height: 50px;
-  box-sizing: border-box;
+
   padding: 20px;
+
+  box-sizing: border-box;
+
+  outline: none;
+
   border-radius: 15px 0 0 15px;
   border: none;
-  outline: none;
 
   color: black;
 }
 
 .search__header__button {
   width: 200px;
+
   outline: none;
+
   border-radius: 0 15px 15px 0;
   border: 0px;
+
   color: black;
 
   cursor: pointer;
@@ -57,9 +64,6 @@ body {
 .API_DOCS {
   margin: 20px 0px;
   font-size: 2rem;
-}
-
-.API_DOCS__desc__wrapeer {
 }
 
 .API_DOCS__desc {
