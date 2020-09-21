@@ -19,13 +19,23 @@
 * 신입회원, 정회원, 명예회원 상관없이 자유롭게 이용해주세요!
 * [Github 오픈소스 가이드](http://opensource.guide/ko/)
 
-### 구조
+### 구조 예시
 
 ```sh
 I_want_to_go_to_school
   │  README.md
-  └─ language
-         I_want_to_go_to_school.language
+  ├─ C
+  │      I_want_to_go_to_school.c
+  ├─ Python
+  │      학교가고싶다.py
+  ├─ 폴더
+  │      README.md
+  │      index.html
+  │      style.css
+  │      script.js
+  └─ images
+         세종냥이.jpg
+         세종오리.jpg
 
 ```
 <br>
